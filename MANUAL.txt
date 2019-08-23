@@ -1,0 +1,164 @@
+Chopper Command C64
+
+Coded by Antonio Savona
+Gfx by Steven Day
+Music by Saul Cross
+Sfx by Flemming Martins
+
+--------------------------------------------------------------------------
+
+Activision
+Chopper Command
+Instructions
+
+Your first mission?  Don't worry.  Everyone gets a little nervous.
+Just make sure you carefully read this instruction manual first.
+You'll be dealing with some very sophisticated equipment, and an
+extremely tricky enemy.  So, good luck.  The guys on the ground are
+counting on ya!
+
+Activision
+
+Chopper Command Basics
+
+The object of the game is to accumulate as many points as possible by
+knocking out enemy aircraft, while protecting yourself and your truck
+convoys at the same time.
+
+1. Hook up your video game system.  Follow manufacturer's instructions.
+
+2. Turn power ON.  If no picture appears, check connection of your game
+system to TV, then repeat steps 1-2.
+
+3. Load the game.
+
+4. Plug in Joystick Controller in Port 2.
+
+5. Press fire button sto start.
+
+6. Allow helicopter to position itself on left side of screen.  
+Action begins as soon as your helicopter is deployed, but you can press
+spacebar to pause the game.
+
+7. Pressing the button will fire cannons.  Holding the button down will
+activate the continuous fire mode.
+Pushing the Joystick up will cause your helicopter to ascend, pulling it 
+back will bring it down. Moving the Joystick left or right will cause
+your helicopter to face to the left or to the right.  
+Pushing the Joystick to the left or to the right will move your 
+helicopter in that direction.
+
+
+Special Features of Chopper Command by Activision
+
+1. The Long Range Scanner at the bottom of the screen will enable you
+to detect both approaching truck convoys (friendly) and enemy aircraft
+well ahead of time.  The truck convoys appear as white "blips" on the
+very bottom of the scanner while enemy aircraft appear as white "blips"
+above the convoy.  Your helicopter gunship is the black dot.  You can
+calculate that the area represented on the long range scanner is
+roughly 5 miles, while the area portrayed on the large screen is about
+1 mile.
+
+2. There are increasing levels of intensity.  Each level will start
+with a wave of twelve enemy ships and twelve trucks in your convoy.
+There are ten waves of enemy attackers, with each wave being faster
+than the one before.  Take care!  Enemy aircaft fire multi-warhead
+missiles which will split in two after being launched from their
+aircraft.  These missiles can destroy both your helicopter and the
+trucks below, and, since you cannot shoot the missiles down, you must
+dodge them.
+
+3. You have an unlimited supply of ammunition, so go ahead and blanket
+the sky with your laser cannons.
+
+4. Scoring.  Each time you shoot down an enemy helicopter, you earn 100
+points.  For every enemy jet you shoot down, you will be credited with
+200 points.  Should you wipe out an entire wave of hostile aircraft,
+you will receive a bonus calculated by multiplying the number of trucks
+remaining in the convoy times the wave number achieved (one through
+ten) times 100.
+
+5. You have helicopter reserves.  You start the game with three
+choppers in your fleet.  For every 10,000 points you score, an extra
+helicopter will be added to your squadron, up to a maximum of six.  The
+number of extra choppers appears under the score.
+
+
+Getting the Feel of Chopper Command by Activision
+
+You'll be amazed how responsive your chopper is to the slightest
+movements of the Joystick.  Pushing the Joystick up will cause your
+helicopter to climb; pulling it back will make your craft descend.
+Right or left movements will guide your gunship's horizontal motion.
+After flying in one direction, pushing the Joystick in the opposite
+direction will cause an immediate 180o turn.  Notice also that your
+chopper "drifts" slightly after pivoting 180o (this should be helpful
+in better timing your shots).
+
+Your chopper can hover close to the ground, but be careful not to
+collide with your convoy.  You'll destroy the helicopter and a truck.
+
+Remember, don't be too aggressive at first.  Keep your chopper on the
+left side of the screen facing right, and size up the situation.  This
+will give you time to better recognize enemy tactics.  Then, when you
+feel more confident, you can seek out the enemy and get them before
+they get to you or your trucks.
+
+The long range scanner is a very useful tool.  However, you'll have to
+keep your eyes on the larger video screen and the scanner at the same
+time.  Watching one and not the other could be dangerous.  Don't
+forget, the long range scanner is for estimating the positions of enemy
+aircraft and not for lining up shots.  You cannot hit the enemy unless
+you can see them on the larger screen.
+
+
+Join the Activision "Commandos"
+
+If you reach a score of 10,000 points (or more) on the Cadet level, you
+will be eligible to join this prestigious organization.  Just send us a
+picture of your TV screen and we'll present you with a special
+"Commandos" emblem.
+
+
+How to Become a "Commando" at Chopper Command by Activision
+
+Tips from Bob Whitehead, designer of Chopper Command
+
+Bob Whitehead is a Senior Designer at Activision.  Before creating
+Chopper Command, Bob designed Boxing, Skiing and Stampede for
+Activsion.
+
+"As you'll soon discover, Chopper Command takes quick reflexes and keen
+coordination.  However, there is a strategic side to the game as well."
+
+"For example, your truck convoys will always travel from the right to
+the left.  And so will the enemy formations.  Knowing this, you can
+position yourself at the left side of the screen and start firing as
+soon as the enemy aircraft appear.  This is important because your
+helicopter's chances of being hit by a multi-warhead missile increase
+the closer the enemy aircraft get.  The enemy pilots are real
+kamikazes, too, and they'll collide with you if they can't shoot you
+down."
+
+"Good luck!  I hope you have as much fun playing Chopper Command as I
+had designing it.  God Bless."
+
+Bob Whitehead
+P.S. Drop my a line.  I'd sure like to hear how our guys are doing at
+the front.
+
+
+Look for more Activision video games wherever you buy video game
+cartridges.  Drop us a note, and we'll gladly add your name to our
+mailing list and keep you posted on new Activision game cartridges as
+they become available.
+
+Activision
+Activision, Inc., 3255-2 Scott Blvd., Santa Clara, CA 95051
+
+ATARI and Video Computer System are trademarks of ATARI, INC.
+Tele-Games and Video Arcade are trademarks of Sears, Roebuck and Co.
+
+C 1982 Activision AX-015-03                     Printed in U.S.A.
+
