@@ -34,7 +34,7 @@ system to TV, then repeat steps 1-2.
 
 4. Plug in Joystick Controller in Port 2.
 
-5. Press fire button sto start.
+5. Press fire button to start.
 
 6. Allow helicopter to position itself on left side of screen.  
 Action begins as soon as your helicopter is deployed, but you can press
